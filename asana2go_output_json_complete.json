@@ -1,0 +1,558 @@
+{
+    "general": {
+        "currentDate": "2020-02-13",
+        "currentTime": "2020-02-14T02:39:31.965Z",
+        "tasksOrSubtasks": "tasks",
+        "outputStyle": "save",
+        "viewType": "project"
+    },
+    "workspace": {
+        "gid": "2819260324446",
+        "email_domains": [],
+        "is_organization": false,
+        "name": "ACEMAPP",
+        "resource_type": "workspace"
+    },
+    "team": null,
+    "project": {
+        "gid": "472696023432808",
+        "archived": false,
+        "color": "dark-green",
+        "created_at": "2017-11-07T13:02:14.158Z",
+        "current_status": null,
+        "custom_fields": [],
+        "default_view": "list",
+        "due_on": null,
+        "due_date": null,
+        "followers": [
+            {
+                "gid": "2819271818161",
+                "email": "ajay.arumugam@mhc.org",
+                "name": "Ajay Arumugam",
+                "photo": {
+                    "image_21x21": "https://s3.amazonaws.com/profile_photos/2819271818161.yeHyldyKdAjeKz2pOVd8_21x21.png",
+                    "image_27x27": "https://s3.amazonaws.com/profile_photos/2819271818161.yeHyldyKdAjeKz2pOVd8_27x27.png",
+                    "image_36x36": "https://s3.amazonaws.com/profile_photos/2819271818161.yeHyldyKdAjeKz2pOVd8_36x36.png",
+                    "image_60x60": "https://s3.amazonaws.com/profile_photos/2819271818161.yeHyldyKdAjeKz2pOVd8_60x60.png",
+                    "image_128x128": "https://s3.amazonaws.com/profile_photos/2819271818161.yeHyldyKdAjeKz2pOVd8_128x128.png"
+                },
+                "resource_type": "user",
+                "workspaces": [
+                    {
+                        "gid": "3926018911086",
+                        "name": "Michigan Health Council",
+                        "resource_type": "workspace"
+                    },
+                    {
+                        "gid": "2819260324446",
+                        "name": "ACEMAPP",
+                        "resource_type": "workspace"
+                    },
+                    {
+                        "gid": "189957710400256",
+                        "name": "mhc.org",
+                        "resource_type": "workspace"
+                    },
+                    {
+                        "gid": "498346170860",
+                        "name": "Personal Projects",
+                        "resource_type": "workspace"
+                    }
+                ]
+            },
+            {
+                "gid": "297939411764791",
+                "email": "brian.clauser@mhc.org",
+                "name": "Brian",
+                "photo": {
+                    "image_21x21": "https://s3.amazonaws.com/profile_photos/297939411764791.jh0NJ7es30jcGEsOH500_21x21.png",
+                    "image_27x27": "https://s3.amazonaws.com/profile_photos/297939411764791.jh0NJ7es30jcGEsOH500_27x27.png",
+                    "image_36x36": "https://s3.amazonaws.com/profile_photos/297939411764791.jh0NJ7es30jcGEsOH500_36x36.png",
+                    "image_60x60": "https://s3.amazonaws.com/profile_photos/297939411764791.jh0NJ7es30jcGEsOH500_60x60.png",
+                    "image_128x128": "https://s3.amazonaws.com/profile_photos/297939411764791.jh0NJ7es30jcGEsOH500_128x128.png"
+                },
+                "resource_type": "user",
+                "workspaces": [
+                    {
+                        "gid": "3926018911086",
+                        "name": "Michigan Health Council",
+                        "resource_type": "workspace"
+                    },
+                    {
+                        "gid": "2819260324446",
+                        "name": "ACEMAPP",
+                        "resource_type": "workspace"
+                    },
+                    {
+                        "gid": "189957710400256",
+                        "name": "mhc.org",
+                        "resource_type": "workspace"
+                    },
+                    {
+                        "gid": "910754706867476",
+                        "name": "Personal",
+                        "resource_type": "workspace"
+                    },
+                    {
+                        "gid": "498346170860",
+                        "name": "Personal Projects",
+                        "resource_type": "workspace"
+                    }
+                ]
+            },
+            {
+                "gid": "2911675788435",
+                "email": "Rachel.Bunnell@mhc.org",
+                "name": "Rachel Bunnell ",
+                "photo": {
+                    "image_21x21": "https://s3.amazonaws.com/profile_photos/2911675788435.tjRrBt37GZwfLGdn4y7X_21x21.png",
+                    "image_27x27": "https://s3.amazonaws.com/profile_photos/2911675788435.tjRrBt37GZwfLGdn4y7X_27x27.png",
+                    "image_36x36": "https://s3.amazonaws.com/profile_photos/2911675788435.tjRrBt37GZwfLGdn4y7X_36x36.png",
+                    "image_60x60": "https://s3.amazonaws.com/profile_photos/2911675788435.tjRrBt37GZwfLGdn4y7X_60x60.png",
+                    "image_128x128": "https://s3.amazonaws.com/profile_photos/2911675788435.tjRrBt37GZwfLGdn4y7X_128x128.png"
+                },
+                "resource_type": "user",
+                "workspaces": [
+                    {
+                        "gid": "3926018911086",
+                        "name": "Michigan Health Council",
+                        "resource_type": "workspace"
+                    },
+                    {
+                        "gid": "2819260324446",
+                        "name": "ACEMAPP",
+                        "resource_type": "workspace"
+                    },
+                    {
+                        "gid": "189957710400256",
+                        "name": "mhc.org",
+                        "resource_type": "workspace"
+                    },
+                    {
+                        "gid": "498346170860",
+                        "name": "Personal Projects",
+                        "resource_type": "workspace"
+                    }
+                ]
+            }
+        ],
+        "html_notes": "<body></body>",
+        "is_template": false,
+        "members": [
+            {
+                "gid": "2819271818161",
+                "email": "ajay.arumugam@mhc.org",
+                "name": "Ajay Arumugam",
+                "photo": {
+                    "image_21x21": "https://s3.amazonaws.com/profile_photos/2819271818161.yeHyldyKdAjeKz2pOVd8_21x21.png",
+                    "image_27x27": "https://s3.amazonaws.com/profile_photos/2819271818161.yeHyldyKdAjeKz2pOVd8_27x27.png",
+                    "image_36x36": "https://s3.amazonaws.com/profile_photos/2819271818161.yeHyldyKdAjeKz2pOVd8_36x36.png",
+                    "image_60x60": "https://s3.amazonaws.com/profile_photos/2819271818161.yeHyldyKdAjeKz2pOVd8_60x60.png",
+                    "image_128x128": "https://s3.amazonaws.com/profile_photos/2819271818161.yeHyldyKdAjeKz2pOVd8_128x128.png"
+                },
+                "resource_type": "user",
+                "workspaces": [
+                    {
+                        "gid": "3926018911086",
+                        "name": "Michigan Health Council",
+                        "resource_type": "workspace"
+                    },
+                    {
+                        "gid": "2819260324446",
+                        "name": "ACEMAPP",
+                        "resource_type": "workspace"
+                    },
+                    {
+                        "gid": "189957710400256",
+                        "name": "mhc.org",
+                        "resource_type": "workspace"
+                    },
+                    {
+                        "gid": "498346170860",
+                        "name": "Personal Projects",
+                        "resource_type": "workspace"
+                    }
+                ]
+            },
+            {
+                "gid": "297939411764791",
+                "email": "brian.clauser@mhc.org",
+                "name": "Brian",
+                "photo": {
+                    "image_21x21": "https://s3.amazonaws.com/profile_photos/297939411764791.jh0NJ7es30jcGEsOH500_21x21.png",
+                    "image_27x27": "https://s3.amazonaws.com/profile_photos/297939411764791.jh0NJ7es30jcGEsOH500_27x27.png",
+                    "image_36x36": "https://s3.amazonaws.com/profile_photos/297939411764791.jh0NJ7es30jcGEsOH500_36x36.png",
+                    "image_60x60": "https://s3.amazonaws.com/profile_photos/297939411764791.jh0NJ7es30jcGEsOH500_60x60.png",
+                    "image_128x128": "https://s3.amazonaws.com/profile_photos/297939411764791.jh0NJ7es30jcGEsOH500_128x128.png"
+                },
+                "resource_type": "user",
+                "workspaces": [
+                    {
+                        "gid": "3926018911086",
+                        "name": "Michigan Health Council",
+                        "resource_type": "workspace"
+                    },
+                    {
+                        "gid": "2819260324446",
+                        "name": "ACEMAPP",
+                        "resource_type": "workspace"
+                    },
+                    {
+                        "gid": "189957710400256",
+                        "name": "mhc.org",
+                        "resource_type": "workspace"
+                    },
+                    {
+                        "gid": "910754706867476",
+                        "name": "Personal",
+                        "resource_type": "workspace"
+                    },
+                    {
+                        "gid": "498346170860",
+                        "name": "Personal Projects",
+                        "resource_type": "workspace"
+                    }
+                ]
+            },
+            {
+                "gid": "2911675788435",
+                "email": "Rachel.Bunnell@mhc.org",
+                "name": "Rachel Bunnell ",
+                "photo": {
+                    "image_21x21": "https://s3.amazonaws.com/profile_photos/2911675788435.tjRrBt37GZwfLGdn4y7X_21x21.png",
+                    "image_27x27": "https://s3.amazonaws.com/profile_photos/2911675788435.tjRrBt37GZwfLGdn4y7X_27x27.png",
+                    "image_36x36": "https://s3.amazonaws.com/profile_photos/2911675788435.tjRrBt37GZwfLGdn4y7X_36x36.png",
+                    "image_60x60": "https://s3.amazonaws.com/profile_photos/2911675788435.tjRrBt37GZwfLGdn4y7X_60x60.png",
+                    "image_128x128": "https://s3.amazonaws.com/profile_photos/2911675788435.tjRrBt37GZwfLGdn4y7X_128x128.png"
+                },
+                "resource_type": "user",
+                "workspaces": [
+                    {
+                        "gid": "3926018911086",
+                        "name": "Michigan Health Council",
+                        "resource_type": "workspace"
+                    },
+                    {
+                        "gid": "2819260324446",
+                        "name": "ACEMAPP",
+                        "resource_type": "workspace"
+                    },
+                    {
+                        "gid": "189957710400256",
+                        "name": "mhc.org",
+                        "resource_type": "workspace"
+                    },
+                    {
+                        "gid": "498346170860",
+                        "name": "Personal Projects",
+                        "resource_type": "workspace"
+                    }
+                ]
+            }
+        ],
+        "modified_at": "2020-02-13T15:43:00.038Z",
+        "name": "Live Testing",
+        "notes": "",
+        "owner": {
+            "gid": "2819271818161",
+            "email": "ajay.arumugam@mhc.org",
+            "name": "Ajay Arumugam",
+            "photo": {
+                "image_21x21": "https://s3.amazonaws.com/profile_photos/2819271818161.yeHyldyKdAjeKz2pOVd8_21x21.png",
+                "image_27x27": "https://s3.amazonaws.com/profile_photos/2819271818161.yeHyldyKdAjeKz2pOVd8_27x27.png",
+                "image_36x36": "https://s3.amazonaws.com/profile_photos/2819271818161.yeHyldyKdAjeKz2pOVd8_36x36.png",
+                "image_60x60": "https://s3.amazonaws.com/profile_photos/2819271818161.yeHyldyKdAjeKz2pOVd8_60x60.png",
+                "image_128x128": "https://s3.amazonaws.com/profile_photos/2819271818161.yeHyldyKdAjeKz2pOVd8_128x128.png"
+            },
+            "resource_type": "user",
+            "workspaces": [
+                {
+                    "gid": "3926018911086",
+                    "name": "Michigan Health Council",
+                    "resource_type": "workspace"
+                },
+                {
+                    "gid": "2819260324446",
+                    "name": "ACEMAPP",
+                    "resource_type": "workspace"
+                },
+                {
+                    "gid": "189957710400256",
+                    "name": "mhc.org",
+                    "resource_type": "workspace"
+                },
+                {
+                    "gid": "498346170860",
+                    "name": "Personal Projects",
+                    "resource_type": "workspace"
+                }
+            ]
+        },
+        "public": true,
+        "resource_type": "project",
+        "section_migration_status": "completed",
+        "start_on": null,
+        "workspace": {
+            "gid": "2819260324446",
+            "email_domains": [],
+            "is_organization": false,
+            "name": "ACEMAPP",
+            "resource_type": "workspace"
+        },
+        "url": "https://app.asana.com/0/472696023432808"
+    },
+    "tasks": [
+        {
+            "gid": "1160329545449356",
+            "assignee": {
+                "gid": "2819271818161",
+                "email": "ajay.arumugam@mhc.org",
+                "name": "Ajay Arumugam",
+                "photo": {
+                    "image_21x21": "https://s3.amazonaws.com/profile_photos/2819271818161.yeHyldyKdAjeKz2pOVd8_21x21.png",
+                    "image_27x27": "https://s3.amazonaws.com/profile_photos/2819271818161.yeHyldyKdAjeKz2pOVd8_27x27.png",
+                    "image_36x36": "https://s3.amazonaws.com/profile_photos/2819271818161.yeHyldyKdAjeKz2pOVd8_36x36.png",
+                    "image_60x60": "https://s3.amazonaws.com/profile_photos/2819271818161.yeHyldyKdAjeKz2pOVd8_60x60.png",
+                    "image_128x128": "https://s3.amazonaws.com/profile_photos/2819271818161.yeHyldyKdAjeKz2pOVd8_128x128.png"
+                },
+                "resource_type": "user",
+                "workspaces": [
+                    {
+                        "gid": "3926018911086",
+                        "name": "Michigan Health Council",
+                        "resource_type": "workspace"
+                    },
+                    {
+                        "gid": "2819260324446",
+                        "name": "ACEMAPP",
+                        "resource_type": "workspace"
+                    },
+                    {
+                        "gid": "189957710400256",
+                        "name": "mhc.org",
+                        "resource_type": "workspace"
+                    },
+                    {
+                        "gid": "498346170860",
+                        "name": "Personal Projects",
+                        "resource_type": "workspace"
+                    }
+                ]
+            },
+            "assignee_status": "inbox",
+            "completed": false,
+            "completed_at": null,
+            "created_at": "2020-02-04T14:18:16.952Z",
+            "due_at": null,
+            "due_on": null,
+            "followers": [
+                {
+                    "gid": "151598227123207",
+                    "name": "GitBot",
+                    "resource_type": "user"
+                },
+                {
+                    "gid": "421728144958736",
+                    "name": "Erin Szarka",
+                    "resource_type": "user"
+                },
+                {
+                    "gid": "16251309496780",
+                    "name": "Mitch",
+                    "resource_type": "user"
+                },
+                {
+                    "gid": "297939411764791",
+                    "name": "Brian",
+                    "resource_type": "user"
+                },
+                {
+                    "gid": "46804606901260",
+                    "name": "Jake Farr",
+                    "resource_type": "user"
+                },
+                {
+                    "gid": "2819271818161",
+                    "name": "Ajay Arumugam",
+                    "resource_type": "user"
+                }
+            ],
+            "hearted": false,
+            "hearts": [],
+            "html_notes": "<body>### Date Submitted: 02/04/2020 by Erin Szarka<br><br>### Due Date: N/A<br>### Priority: Medium<br><br>-----------------------------------------------------<br><br>### Description / Summary: <br>Please add a column for the number of logs (case or time) that are in the &quot;Requires Attention&quot;tab on the case log and time log manage page for preceptors, faculty, and entity users.<br><br><a href=\"https://acemapp.org/member/faculty/time-logs/manage\">https://acemapp.org/member/faculty/time-logs/manage</a><br><br><a href=\"https://acemapp.org/member/faculty/case-logs/manage/\">https://acemapp.org/member/faculty/case-logs/manage/</a><br><br>### Use Case: <br>Allow for users to easily see what log types require attention when there are multiple types present<br><br>### Anticipated Impact: <br><br>### Communication Requirements: <br>Other<br><br>### Comments: <br><br>--------------------<br><br>### Task Owners (Who is owning the task and who did we confirm the request with)<br><br>### Estimated Development Time (How long should this take)<br><br>### Due Date (Set a due date, accounting for outliers)<br><br>### Background (The Why / What's Needed)<br><br>### Scope (All of what does this touch)<br><br>### Success Criteria (How do we measure that this is complete)<br><br>-----<br><br>- [GitLab Merge] <a href=\"https://gitlab.mhcdev.com/ace2/ace2-deploy/merge_requests/2993\">https://gitlab.mhcdev.com/ace2/ace2-deploy/merge_requests/2993</a><br>- [GitLab Issue] <a href=\"https://gitlab.mhcdev.com/ace2/ace2-deploy/issues/4055\">https://gitlab.mhcdev.com/ace2/ace2-deploy/issues/4055</a><br>- [ACEMAPP View] <a href=\"https://acemapp.org/admin/asana/task/1270/view\">https://acemapp.org/admin/asana/task/1270/view</a><br>- [ACEMAPP Flow] <a href=\"https://acemapp.org/admin/asana/developer/task/1270/force-flow\">https://acemapp.org/admin/asana/developer/task/1270/force-flow</a></body>",
+            "is_rendered_as_separator": false,
+            "liked": false,
+            "likes": [],
+            "memberships": [
+                {
+                    "project": {
+                        "gid": "472696023432808",
+                        "name": "Live Testing",
+                        "resource_type": "project",
+                        "url": "https://app.asana.com/0/472696023432808"
+                    },
+                    "section": {
+                        "gid": "1144035812536381",
+                        "name": "For Ajay to Close",
+                        "resource_type": "section"
+                    }
+                }
+            ],
+            "modified_at": "2020-02-12T20:01:51.569Z",
+            "name": "Case/Time Log Manage Logs table add \"Requires Attention\" count",
+            "notes": "### Date Submitted: 02/04/2020 by Erin Szarka\n\n### Due Date: N/A\n### Priority: Medium\n\n-----------------------------------------------------\n\n### Description / Summary: \nPlease add a column for the number of logs (case or time) that are in the \"Requires Attention\"tab on the case log and time log manage page for preceptors, faculty, and entity users.\n\nhttps://acemapp.org/member/faculty/time-logs/manage\n\nhttps://acemapp.org/member/faculty/case-logs/manage/\n\n### Use Case: \nAllow for users to easily see what log types require attention when there are multiple types present\n\n### Anticipated Impact: \n\n### Communication Requirements: \nOther\n\n### Comments: \n\n--------------------\n\n### Task Owners (Who is owning the task and who did we confirm the request with)\n\n### Estimated Development Time (How long should this take)\n\n### Due Date (Set a due date, accounting for outliers)\n\n### Background (The Why / What's Needed)\n\n### Scope (All of what does this touch)\n\n### Success Criteria (How do we measure that this is complete)\n\n-----\n\n- [GitLab Merge] https://gitlab.mhcdev.com/ace2/ace2-deploy/merge_requests/2993\n- [GitLab Issue] https://gitlab.mhcdev.com/ace2/ace2-deploy/issues/4055\n- [ACEMAPP View] https://acemapp.org/admin/asana/task/1270/view\n- [ACEMAPP Flow] https://acemapp.org/admin/asana/developer/task/1270/force-flow",
+            "num_hearts": 0,
+            "num_likes": 0,
+            "parent": null,
+            "projects": [
+                {
+                    "gid": "472696023432808",
+                    "archived": false,
+                    "color": "dark-green",
+                    "created_at": "2017-11-07T13:02:14.158Z",
+                    "current_status": null,
+                    "custom_fields": [],
+                    "default_view": "list",
+                    "due_on": null,
+                    "due_date": null,
+                    "followers": [
+                        {
+                            "gid": "2819271818161",
+                            "name": "Ajay Arumugam",
+                            "resource_type": "user"
+                        },
+                        {
+                            "gid": "297939411764791",
+                            "name": "Brian",
+                            "resource_type": "user"
+                        },
+                        {
+                            "gid": "2911675788435",
+                            "name": "Rachel Bunnell ",
+                            "resource_type": "user"
+                        }
+                    ],
+                    "html_notes": "<body></body>",
+                    "is_template": false,
+                    "members": [
+                        {
+                            "gid": "2819271818161",
+                            "name": "Ajay Arumugam",
+                            "resource_type": "user"
+                        },
+                        {
+                            "gid": "297939411764791",
+                            "name": "Brian",
+                            "resource_type": "user"
+                        },
+                        {
+                            "gid": "2911675788435",
+                            "name": "Rachel Bunnell ",
+                            "resource_type": "user"
+                        }
+                    ],
+                    "modified_at": "2020-02-13T15:43:00.038Z",
+                    "name": "Live Testing",
+                    "notes": "",
+                    "owner": {
+                        "gid": "2819271818161",
+                        "name": "Ajay Arumugam",
+                        "resource_type": "user"
+                    },
+                    "public": true,
+                    "resource_type": "project",
+                    "section_migration_status": "completed",
+                    "start_on": null,
+                    "workspace": {
+                        "gid": "2819260324446",
+                        "name": "ACEMAPP",
+                        "resource_type": "workspace"
+                    }
+                }
+            ],
+            "resource_type": "task",
+            "start_on": null,
+            "tags": [
+                {
+                    "gid": "977607449576362",
+                    "name": "GL10-Complete",
+                    "resource_type": "tag",
+                    "url": "https://app.asana.com/0/977607449576362"
+                },
+                {
+                    "gid": "1158534082572577",
+                    "name": "CLTL",
+                    "resource_type": "tag",
+                    "url": "https://app.asana.com/0/1158534082572577"
+                }
+            ],
+            "resource_subtype": "default_task",
+            "workspace": {
+                "gid": "2819260324446",
+                "name": "ACEMAPP",
+                "resource_type": "workspace"
+            },
+            "url": "https://app.asana.com/0/472696023432808/1160329545449356",
+            "num_comments": 8,
+            "custom_fields_simple": null,
+            "due_on_at": null,
+            "is_section": false,
+            "in_section": "For Ajay to Close",
+            "project_for_dashboard": null,
+            "status_level": 99,
+            "subtasks": []
+        }
+    ],
+    "user": {
+        "gid": "297939411764791",
+        "email": "brian.clauser@mhc.org",
+        "name": "Brian",
+        "photo": {
+            "image_21x21": "https://s3.amazonaws.com/profile_photos/297939411764791.jh0NJ7es30jcGEsOH500_21x21.png",
+            "image_27x27": "https://s3.amazonaws.com/profile_photos/297939411764791.jh0NJ7es30jcGEsOH500_27x27.png",
+            "image_36x36": "https://s3.amazonaws.com/profile_photos/297939411764791.jh0NJ7es30jcGEsOH500_36x36.png",
+            "image_60x60": "https://s3.amazonaws.com/profile_photos/297939411764791.jh0NJ7es30jcGEsOH500_60x60.png",
+            "image_128x128": "https://s3.amazonaws.com/profile_photos/297939411764791.jh0NJ7es30jcGEsOH500_128x128.png"
+        },
+        "resource_type": "user",
+        "workspaces": [
+            {
+                "gid": "3926018911086",
+                "email_domains": [],
+                "is_organization": false,
+                "name": "Michigan Health Council",
+                "resource_type": "workspace"
+            },
+            {
+                "gid": "2819260324446",
+                "email_domains": [],
+                "is_organization": false,
+                "name": "ACEMAPP",
+                "resource_type": "workspace"
+            },
+            {
+                "gid": "189957710400256",
+                "email_domains": [
+                    "mhc.org"
+                ],
+                "is_organization": true,
+                "name": "mhc.org",
+                "resource_type": "workspace"
+            },
+            {
+                "gid": "910754706867476",
+                "email_domains": [],
+                "is_organization": false,
+                "name": "Personal",
+                "resource_type": "workspace"
+            },
+            {
+                "gid": "498346170860",
+                "email_domains": [],
+                "is_organization": true,
+                "name": "Personal Projects",
+                "resource_type": "workspace"
+            }
+        ]
+    }
+}
